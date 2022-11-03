@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7f2a005.css",
+    "main.js": "/static/js/main.7a12a795.js",
+    "static/media/Crowd Bonus App.mp4": "/static/media/Crowd Bonus App.9b8da10d6f887da12254.mp4",
+    "static/media/kelly-sikkema-6aY-6B3MiZ4-unsplash1-1024x683.jpg": "/static/media/kelly-sikkema-6aY-6B3MiZ4-unsplash1-1024x683.205c504d46f4cee32aba.jpg",
+    "static/media/_2-1024x576.jpg": "/static/media/620405890d2841cca82eb6c8_2-1024x576.2c9af21e943ffa6ec64b.jpg",
+    "static/media/mylogo.jpg": "/static/media/mylogo.8df1d255f9cf6f1b92b4.jpg",
+    "static/media/man.jpeg": "/static/media/man.df6ed02cef9b37ece979.jpeg",
+    "static/media/12_6424f3f8-4a2f-48f9-b84b-fcf5a42c4000_480x480.webp": "/static/media/12_6424f3f8-4a2f-48f9-b84b-fcf5a42c4000_480x480.e5abeb9013ca34b464b5.webp",
+    "static/media/paypal.png": "/static/media/paypal.23de67180c29c3c3c30d.png",
+    "static/media/hhhh.png": "/static/media/hhhh.191541347f616866ee1b.png",
+    "static/media/Untitled-4.png": "/static/media/Untitled-4.2ba4af2d34f6d1fa12af.png",
+    "static/media/avatar.png": "/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "static/media/Untitled-5.png": "/static/media/Untitled-5.0a942617332f05b7a86f.png",
+    "index.html": "/index.html",
+    "main.d7f2a005.css.map": "/static/css/main.d7f2a005.css.map",
+    "main.7a12a795.js.map": "/static/js/main.7a12a795.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f2a005.css",
+    "static/js/main.7a12a795.js"
+  ]
+}
